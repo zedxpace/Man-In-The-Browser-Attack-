@@ -1,3 +1,4 @@
+#code is explained in the following page : https://www.codexpace.ml/2022/03/man-in-browser.html
 from http.server import SimpleHTTPRequestHandler
 from socketserver import TCPServer
 from urllib.parse import  unquote
