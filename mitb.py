@@ -1,3 +1,4 @@
+#code is explained in following page : https://www.codexpace.ml/2022/03/man-in-browser.html
 import win32com.client
 import time
 from urllib.parse import urlparse ,quote
